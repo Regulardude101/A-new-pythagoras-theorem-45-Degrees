@@ -26,7 +26,7 @@ If angle B = 45°, and sides a and c are known, then side b is approximately:
 −
 1
 )
-b≈(a 
+or b≈(a 
 2.5
  +c 
 2.5
