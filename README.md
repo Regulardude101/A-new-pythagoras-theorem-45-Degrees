@@ -1,38 +1,5 @@
 # A-new-pythagoras-theorem-45-Degrees
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Triangle Formula for 45&deg; Angles</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: 2rem auto;
-      padding: 1rem;
-      background-color: #f8f8f8;
-      color: #333;
-      line-height: 1.6;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    code, pre {
-      background-color: #eee;
-      padding: 0.2rem 0.5rem;
-      border-radius: 4px;
-    }
-    .formula {
-      font-size: 1.2rem;
-      background: #fff;
-      padding: 0.5rem;
-      border-left: 4px solid #3498db;
-      margin: 1rem 0;
-    }
-  </style>
-</head>
-<body>
+
   <h1>🔺 The Iwunze 45 Degree Triangle Approximation Theorem </h1>
   <p><strong>By: [MC-Davies Iwunze]</strong></p>
 
