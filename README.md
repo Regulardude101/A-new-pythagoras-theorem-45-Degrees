@@ -1,7 +1,7 @@
 # A-new-pythagoras-theorem-45-Degrees
 
-  <h1>🔺 The ________ 45 Degree Triangle Approximation Theorem </h1>
-  <p><strong>By: [_____________-]</strong></p>
+  <h1>🔺 The Iwunze 45 Degree Triangle Approximation Theorem </h1>
+  <p><strong>By: [MC-Davies Iwunze]</strong></p>
 
   <h2>📐 The Formula</h2>
   <p>If a triangle has one angle of <strong>45&deg;</strong> and two known sides <code>a</code> and <code>c</code>, the third side <code>b</code> can be estimated using:</p>
