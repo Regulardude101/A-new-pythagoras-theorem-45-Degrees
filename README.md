@@ -34,11 +34,7 @@
     <li>Accurate for angles of exactly 45&deg;</li>
     <li>Best when side ratio is 1:1 to 1:3</li>
     <li>Use α to tune the formula for bigger or less even triangles</li>
-  I've made a formula that fixes the flaw b≈(a 
-2.5
- +c 
-2.5
- ) 
+  I've made a formula that fixes the flawb ≈ (a^2.5 + c^2.5)
 3−α(r)⋅(r−1)
 1)
 ​
