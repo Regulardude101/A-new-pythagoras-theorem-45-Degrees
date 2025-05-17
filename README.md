@@ -36,7 +36,7 @@
     <li>Use α to tune the formula for bigger or less even triangles</li>
   </ul>
 © [MC-Davies Iwunze], 2025
-This formula is an original approximation method created by [Your Name] for triangles with a 45° angle. It may be used freely for educational or research purposes with credit.
+This formula is an original approximation method created by [MC-Davies Iwunze] for triangles with a 45° angle. It may be used freely for educational or research purposes with credit.
   <p><em></em></p>
 </body>
 </html>
