@@ -35,7 +35,8 @@
     <li>Best when side ratio is 1:1 to 1:3</li>
     <li>Use α to tune the formula for bigger or less even triangles</li>
   </ul>
-
+© [MC-Davies Iwunze], 2025
+This formula is an original approximation method created by [Your Name] for triangles with a 45° angle. It may be used freely for educational or research purposes with credit.
   <p><em></em></p>
 </body>
 </html>
